@@ -32,4 +32,4 @@ O sistema deve permitir registrar o horário de entrega, caso esse requisito ten
 
 ## Diagrama DER
 
-![Diagrama DER](./der.png)
+![Diagrama DER](./DER.png)
